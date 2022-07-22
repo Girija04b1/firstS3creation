@@ -1,0 +1,23 @@
+---
+Fruits:
+- Banana:
+     Calories: 105
+     Fat: 0.4g
+     Carbs: 27g
+
+- Grapes:
+    Calories: 63
+    Fat: 0.9
+    Carbs: 63g
+
+Vegetables:
+
+- Carrot:
+  Calories: 43
+  Fat: 0.1
+  Carbs: 15g
+
+-Tomato:
+   Calories: 56
+   Fat: 0.6
+   Carbs: 54g
