@@ -1,0 +1,6 @@
+---
+- hosts: localhost 
+  become: true
+  tasks:
+  -  name: "copy file to s3 bucket"
+     s3_sync: aws_access_key_id=AKIAXCX5SD7ZQROKDATD aws_secret_access_key=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 bucket=my-tf-girija-bucket src=/home/girija/ansible/fruits.txt mode=put
